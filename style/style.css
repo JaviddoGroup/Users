@@ -1,0 +1,38 @@
+@media only screen and (max-width: 800px) {
+    .headers a {
+        display: flex;
+        justify-content: center;
+    }
+
+    .headers img {
+        width: 80%;
+    }
+
+    .all-sections {
+        margin-top: 15px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .medias {
+        display: flex;
+    }
+
+    .next-child-medias {
+        margin: 30px 0;
+    }
+
+    .social-medias {
+        width: 80%;
+    }
+
+    .media-icons a {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .media-icons a img {
+        width: 80%;
+    }
+}
