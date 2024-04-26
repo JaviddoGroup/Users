@@ -4,7 +4,7 @@
 }
 
 .headers img {
-    width: 80%;
+    width: 73%;
 }
 
 .all-sections {
@@ -33,4 +33,17 @@
 
 .media-icons a img {
     width: 80%;
+}
+
+.last-child-medias {
+    display: flex;
+    justify-content: center;
+}
+
+.last-child-medias a {
+    width: 93%;
+}
+
+.last-child-medias a img {
+    width: 100%;
 }
