@@ -344,9 +344,9 @@
         margin-top: -154px;
         width: 100%;
         height: auto;
-        aspect-ratio: 540 / 151;
-        background-image: url(../media/layout/image.png);
-        background-size: contain;
+        aspect-ratio: 16 / 7;
+        background-image: url("../media/layout/image.svg");
+        background-size: 100% auto;
         border-bottom: solid 1px lightgrey;
 
         -webkit-transition: all 0.7s ease-in-out;
@@ -371,7 +371,7 @@
         background-image: url("../UserPic/Tural.png");
         background-size: cover;
         background-position: 50% 50%;
-        top: 75px;
+        top: 22vh;
         -webkit-box-shadow: inset 0px 0px 5px 1px rgba(0, 0, 0, 0.3);
         -moz-box-shadow: inset 0px 0px 5px 1px rgba(0, 0, 0, 0.3);
         box-shadow: inset 0px 0px 5px 1px rgba(0, 0, 0, 0.3);
